@@ -1,2 +1,6 @@
 Hello world
+<<<<<<< HEAD
 Modify from PC
+=======
+Another modify from GIT WEB
+>>>>>>> refs/remotes/origin/main
